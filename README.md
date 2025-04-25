@@ -15,4 +15,4 @@
 
 ## עם אילו שפות אני מתכנת?
 
-<img src="https://cdn.discordapp.com/attachments/1357449743592194120/1357467871713824848/file-HUyg43th6KffTKGJmiAq1b.png?ex=67f04ff9&is=67eefe79&hm=1dacdab87842aeebc6c76a3c5c04cde8e0f826643d92ef1ae5fd5992416b709f&" style="max-width: 100%;">
+<img src="https://cdn.discordapp.com/attachments/1266201236844056597/1365312889032019978/Languge.png?ex=680cda37&is=680b88b7&hm=3575327e2a75c3217dad40af72df17613f4be84d1cab086d2ecf5ba4c59325c5&" style="max-width: 100%;">
