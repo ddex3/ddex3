@@ -109,7 +109,6 @@ Currently, I’m expanding my skill set by learning **C#**, aiming to deepen my 
     <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="22" />
     <b>Discord:</b> <a href="https://discord.com/users/1205256112010698813" target="_blank">de_x3</a>
   </span><br>
-
 </p>
 
 ---
