@@ -16,7 +16,6 @@ Today, I’m a proud member of the development team at [@tgilabs](https://github
 Currently, I’m expanding my skill set by learning **C#**, aiming to deepen my experience with desktop software and cross-platform applications.
 
 #  What I Do
----
 - **Web Development**  
   Building modern, responsive, and intuitive user interfaces using up-to-date technologies. Whether it’s admin dashboards, landing pages, or dynamic websites – I deliver performance and visual polish.
 
