@@ -94,7 +94,7 @@ Currently, I’m expanding my skill set by learning **C#**, aiming to deepen my 
 <p align="left">
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://img.icons8.com/fluency/48/circled-envelope.png" width="22" />
-    <b>Email:</b> <a href="mailto:support@dexshop.net" target="_blank">support@dexshop.net</a>
+    <b>Email:</b> <a href="mailto:support@dexshop.net" target="_blank">dex@dexshop.net</a>
   </span><br>
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="22" />
