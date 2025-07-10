@@ -7,11 +7,11 @@
 
 # About Me
 
-Hi, I'm **Dex** - A Developer With over 2 years of hands on experience, I craft modern websites, intelligent automation systems, and advanced Discord bots.
+Hi, I'm **Dex** – A Developer with over 2 years of hands-on experience. I craft modern websites, intelligent automation systems, and advanced Discord bots.
 
-My mission is to transform ideas into elegant, high performance solutions that deliver real impact. I’m driven by clean design, seamless functionality, and creating digital experiences that feel both intuitive and powerful.
+My mission is to transform ideas into elegant, high-performance solutions that deliver real impact. I’m driven by clean design, seamless functionality, and creating digital experiences that feel both intuitive and powerful.
 
-Today, I’m a proud member of the development team at [@tgilabs](https://github.com/tgilabs), and I also manage my personal brand, [@dexshop](https://github.com/dexshop) – a boutique development studio crafting high-quality custom Discord bots with refined UX, speed, and functionality.
+Today, I’m a proud member of the development team at [@tgilabs](https://github.com/tgilabs), a developer at [Yahal Software](https://yahal.software) where I focus on building intelligent systems, automation processes, and AI-driven solutions, and I also manage my personal brand, [@dexshop](https://github.com/dexshop) – a boutique development studio crafting high-quality custom Discord bots with refined UX, speed, and functionality.
 
 Currently, I’m expanding my skill set by learning **C#**, aiming to deepen my experience with desktop software and cross-platform applications.
 
