@@ -22,25 +22,25 @@ Certified in Cyber Warfare (Israel Cyber Campus, 2025). Security is not an after
 
 ## Technical Stack
 
-**Languages**
+**Languages**<br>
 <img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Dart-3.5-0175C2?logo=dart&logoColor=white" alt="Dart" />
 
-**Backend**
+**Backend**<br>
 <img src="https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-4.18-000000?logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Firebase-Cloud-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
 
-**Frontend**
+**Frontend**<br>
 <img src="https://img.shields.io/badge/React-18.3-61DAFB?logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Vite-5.4-646CFF?logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
 
-**Databases**
+**Databases**<br>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black" alt="Firestore" /> <img src="https://img.shields.io/badge/PostgreSQL-16-316192?logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-7.0-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/SQLite-3.45-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure**<br>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-24.0-2496ED?logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/NGINX-1.25-009639?logo=nginx&logoColor=white" alt="NGINX" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 
-**Security**
+**Security**<br>
 <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/OAuth-2.0-EB5424?logo=auth0&logoColor=white" alt="OAuth 2.0" />
 
-**APIs & Integrations**
+**APIs & Integrations**<br>
 <img src="https://img.shields.io/badge/OpenAI-API-412991?logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Gemini-API-4285F4?logo=google&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" /> <img src="https://img.shields.io/badge/Discord-API-5865F2?logo=discord&logoColor=white" alt="Discord" />
 
 ---
