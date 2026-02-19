@@ -1,6 +1,10 @@
 # Shaked Angel
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=000000&center=false&vCenter=true&width=500&lines=Backend+Engineer;Node.js+%7C+TypeScript+%7C+Cloud;Architect+before+coder;Security-first+by+default)](https://git.io/typing-svg)
+
 **Backend-Focused Full-Stack Developer** | Node.js · TypeScript · Cloud Infrastructure · Security
+
+> Architecture first. Code second. Everything else follows.
 
 Rishon LeZion, Israel &nbsp;|&nbsp; [shakedangel.com](https://shakedangel.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shakedangel) &nbsp;|&nbsp; shaked@lynor.co.il
 
@@ -18,20 +22,46 @@ Certified in Cyber Warfare (Israel Cyber Campus, 2025). Security is not an after
 
 ## Technical Stack
 
-**Languages**
-TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Dart<br>
-**Backend**
-Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; Firebase Admin SDK &nbsp;·&nbsp; REST API Design<br>
-**Frontend**
-React &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; HTML5 &nbsp;·&nbsp; CSS3<br>
-**Databases**
-Firestore &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; SQLite<br>
-**Cloud & Infrastructure**
-AWS &nbsp;·&nbsp; Docker &nbsp;·&nbsp; NGINX &nbsp;·&nbsp; Linux<br>
-**Security**
-JWT &nbsp;·&nbsp; OAuth 2.0 &nbsp;·&nbsp; CORS &nbsp;·&nbsp; Rate Limiting &nbsp;·&nbsp; Input Sanitization &nbsp;·&nbsp; Server-Side Validation &nbsp;·&nbsp; HTTPS/TLS<br>
-**APIs & Integrations**
-OpenAI API &nbsp;·&nbsp; Gemini API &nbsp;·&nbsp; WhatsApp Cloud API &nbsp;·&nbsp; Discord API<br>
+**Languages**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend**<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**<br>
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Cloud & Infrastructure**<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Security**<br>
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+**APIs & Integrations**<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
@@ -78,7 +108,11 @@ I integrate AI capabilities into production workflows with precision. This is no
 ![Followers](https://img.shields.io/github/followers/ddex3?style=flat-square&label=Followers&color=000000&labelColor=000000&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ddex3&style=flat-square&color=000000&label=Profile+Views)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ddex3&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub Metrics](github-metrics.svg)
+
+![Languages](github-languages.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ddex3&theme=default&hide_border=true)
 
