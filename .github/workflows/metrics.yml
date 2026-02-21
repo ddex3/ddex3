@@ -36,6 +36,7 @@ jobs:
           committer_message: "chore: update GitHub metrics [skip ci]"
 
       - uses: lowlighter/metrics@latest
+        if: always()
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ddex3
@@ -52,6 +53,7 @@ jobs:
           committer_message: "chore: update language metrics [skip ci]"
 
       - uses: lowlighter/metrics@latest
+        if: always()
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ddex3

@@ -94,7 +94,7 @@ I integrate AI capabilities into production workflows with precision. This is no
 ![Followers](https://img.shields.io/github/followers/ddex3?style=flat-square&label=Followers&color=000000&labelColor=000000&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ddex3&style=flat-square&color=000000&label=Profile+Views)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ddex3&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ddex3&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub Metrics](github-metrics.svg)
 
