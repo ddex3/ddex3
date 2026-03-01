@@ -23,7 +23,7 @@ Certified in Cyber Warfare (Israel Cyber Campus, 2025). Security is not an after
 ## Technical Stack
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Dart-3.5-0175C2?logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%23-12.0-512BD4?logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Dart-3.5-0175C2?logo=dart&logoColor=white" alt="Dart" />
 
 **Backend**<br>
 <img src="https://img.shields.io/badge/Node.js-20.x-339933?logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-4.18-000000?logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Firebase-Cloud-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
