@@ -6,7 +6,7 @@
 
 > Architecture first. Code second. Everything else follows.
 
-Rishon LeZion, Israel &nbsp;|&nbsp; [shakedangel.com](https://shakedangel.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shakedangel) &nbsp;|&nbsp; shaked@lynor.co.il
+Rishon LeZion, Israel &nbsp;|&nbsp; [shakedangel.com](https://shakedangel.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shakedangel) &nbsp;|&nbsp; me@shakedangel.com
 
 ---
 
