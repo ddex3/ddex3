@@ -4,8 +4,6 @@
 
 **Backend-Focused Full-Stack Developer** · Node.js · TypeScript · Cloud · Security
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Architecture+first.+Code+second.;Security-first+by+default;Node.js+%7C+TypeScript+%7C+Cloud)](https://git.io/typing-svg)
-
 [![Website](https://img.shields.io/badge/shakedangel.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://shakedangel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakedangel)
 [![Email](https://img.shields.io/badge/me@shakedangel.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@shakedangel.com)
