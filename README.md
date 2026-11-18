@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/shakedangel.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://shakedangel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakedangel)
 [![Email](https://img.shields.io/badge/me@shakedangel.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me@shakedangel.com)
-![Location](https://img.shields.io/badge/Rishon_LeZion,_Israel-555555?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Israel-555555?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -29,6 +29,5 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,py,dart,nodejs,express,react,vite,tailwind,html,css&perline=12" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb,sqlite,aws,docker,nginx,linux&perline=12" alt="Databases and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,py,dart,nodejs,express,nextjs,react,vite,tailwind,html,css,firebase,supabase,postgres,mysql,mongodb,redis,sqlite,aws,cloudflare,vercel,docker,nginx,linux,git,githubactions,postman&perline=10" alt="Tech stack" />
 </p>
